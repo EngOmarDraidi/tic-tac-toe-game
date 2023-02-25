@@ -18,7 +18,7 @@ Create your Flutter project then go it and copy my code inside it
 ```batch
   flutter create <your-project-name>
   cd <your-project-name>
-  // copy my code inside it
+  # copy my code inside it
 ```
 
 To run on emulator or real device
